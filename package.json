@@ -20,5 +20,9 @@
   "homepage": "https://github.com/iromjalis/nodejs-homework-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uuidv4": "^6.2.12",
+    "yargs": "^17.2.1"
   }
 }
